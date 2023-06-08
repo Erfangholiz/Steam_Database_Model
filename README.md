@@ -7,5 +7,6 @@ It has 10 tables: user, friend_user, group, group_user, game, game_user, company
 friend_user, group_user, game_user, game_user and game_sale are relations that link two other tables to each other, I couldn't keep every game a user had in the user table because a user can have multiple games and having multiple games would mean there would be more than one row with the same steam_id which would inhibit me from using steam_id as the primary key of the user relation. The same applies to the other tables listed.
 
 For the DML commands in order to generate random data I first tried using Mockaroo but as it didn't provide enough options for randomly generated data (like gamer usernames or fake video game company names) I resorted to using ChatGPT.
+
 I would tell GPT-4 something like this:
     
