@@ -9,6 +9,7 @@ friend_user, group_user, game_user, game_user and game_sale are relations that l
 For the DML commands in order to generate random data I first tried using Mockaroo but as it didn't provide enough options for randomly generated data (like gamer usernames or fake video game company names) I resorted to using ChatGPT.
 
 I would tell GPT-4 something like this:
+
             Give me 20 INSERT commands for this database table: user(steam_id, username, birth_date, reg_date)
             steam_id should be a randomly generated string with a maximum length of 32 characters that's unique to each row.
             username should be a name that sounds like a gamer's username.
