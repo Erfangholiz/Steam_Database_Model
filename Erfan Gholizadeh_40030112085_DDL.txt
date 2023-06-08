@@ -1,0 +1,88 @@
+CREATE TABLE "user"(
+	"steam_id"		varchar(32),
+	"username" 		varchar(32),
+	"birth_date" 	date,
+	"reg_date" 		date,
+	PRIMARY KEY (steam_id)
+);
+
+CREATE TABLE "group"(
+	"group_id" 			varchar(20),
+	"admin_id"			varchar(32),
+	"creation_date" 	date,
+	"interest" 			varchar(100),
+	PRIMARY KEY (group_id),
+	FOREIGN KEY (admin_id) REFERENCES "user"(steam_id)
+);
+
+CREATE TABLE "group_user"(
+	"group_id" 			varchar(20),
+	"steam_id"			varchar(32),
+	"join_date"			date,
+	"leave_date"		date,
+	FOREIGN KEY (group_id) REFERENCES "group"(group_id),
+	FOREIGN KEY (steam_id) REFERENCES "user"(steam_id),
+	PRIMARY KEY (steam_id, group_id)
+);
+
+CREATE TABLE "friend_user"(
+	"sender_id" 			varchar(32),
+	"receiver_id"			varchar(32),
+	"start_date"			date,
+	"end_date"				date,
+	"status"				varchar(10),
+	FOREIGN KEY (sender_id) REFERENCES "user"(steam_id),
+	FOREIGN KEY (receiver_id) REFERENCES "user"(steam_id),
+	PRIMARY KEY (sender_id, receiver_id)
+);
+
+CREATE TABLE "company"(
+	"company_id" 		varchar(32),
+	"name"				varchar(50),
+	PRIMARY KEY (company_id)
+);
+
+CREATE TABLE "game"(
+	"game_id" 			varchar(32),
+	"title"				varchar(50),
+	"genre"				varchar(50),
+	"price"				bigint,
+	"score"				real,
+	"release_date"		date,
+	PRIMARY KEY (game_id)
+);
+
+CREATE TABLE "game_user"(
+	"game_id" 			varchar(32),
+	"steam_id"			varchar(32),
+	FOREIGN KEY (game_id) REFERENCES "game",
+	FOREIGN KEY (steam_id) REFERENCES "user",
+	PRIMARY KEY (game_id, steam_id)
+);
+
+CREATE TABLE "game_company"(
+	"game_id" 				varchar(32),
+	"company_id"			varchar(32),
+	FOREIGN KEY (game_id) REFERENCES "game",
+	FOREIGN KEY (company_id) REFERENCES "company",
+	PRIMARY KEY (game_id, company_id)
+);
+
+CREATE TABLE "sale"(
+	"sale_id" 				varchar(32),
+	"steam_id"				varchar(32),
+	"amount" 				float8,
+	"purchase_date"			date,
+	FOREIGN KEY (steam_id) REFERENCES "user",
+	PRIMARY KEY (sale_id)
+);
+
+CREATE TABLE "game_sale"(
+	"game_id" 			varchar(32),
+	"sale_id"			varchar(32),
+	FOREIGN KEY (game_id) REFERENCES "game",
+	FOREIGN KEY (sale_id) REFERENCES "sale",
+	PRIMARY KEY (game_id, sale_id)
+);
+
+
