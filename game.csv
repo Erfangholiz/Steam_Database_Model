@@ -1,0 +1,60 @@
+a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6,Galactic Conquerors,30,8.5,2004-09-15,Shooter
+b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6a1,Mystic Warriors,15,7.2,2005-11-23,Strategy
+c3d4e5f6g7h8i9j0k1l2m3n4o5p6a1b2,Cybernetic Uprising,60,9.1,2007-03-12,Shooter
+d4e5f6g7h8i9j0k1l2m3n4o5p6a1b2c3,Shadow Hunters,20,6.8,2008-06-30,Role-Playing
+e5f6g7h8i9j0k1l2m3n4o5p6a1b2c3d4,Time Rift,40,8.9,2010-02-18,Strategy
+f6g7h8i9j0k1l2m3n4o5p6a1b2c3d4e5,Oceanic Odyssey,5,5.4,2011-08-24,Role-Playing
+g7h8i9j0k1l2m3n4o5p6a1b2c3d4e5f6,Mechanical Rebellion,60,9.3,2012-12-10,Role-Playing
+h8i9j0k1l2m3n4o5p6a1b2c3d4e5f6g7,Astral Architects,30,7.7,2014-04-29,Shooter
+i9j0k1l2m3n4o5p6a1b2c3d4e5f6g7h8,Dimensional Drifters,20,6.1,2015-07-17,Shooter
+j0k1l2m3n4o5p6a1b2c3d4e5f6g7h8i9,Celestial Sentinels,40,8.2,2016-11-05,Point and Click
+k1l2m3n4o5p6a1b2c3d4e5f6g7h8i9j0,Quantum Quest,15,7.5,2018-03-23,Shooter
+l2m3n4o5p6a1b2c3d4e5f6g7h8i9j0k1,Terraform Titans,5,5.9,2019-06-11,Point and Click
+m3n4o5p6a1b2c3d4e5f6g7h8i9j0k1l2,Chrono Crusaders,60,9.6,2020-10-28,MOBA
+n4o5p6a1b2c3d4e5f6g7h8i9j0k1l2m3,Nebula Nomads,30,7,2022-02-14,Point and Click
+o5p6a1b2c3d4e5f6g7h8i9j0k1l2m3n4,Void Vanguard,20,6.3,2023-05-03,Shooter
+p6a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5,Stellar Sovereigns,40,8.7,2024-08-21,Role-Playing
+a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p7,Interstellar Infiltrators,15,7.8,2025-12-08,Shooter
+b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6a2,Cosmic Corsairs,5,5.2,2027-03-27,MOBA
+c3d4e5f6g7h8i9j0k1l2m3n4o5p6a1b3,Galaxy Gladiators,60,9.4,2028-07-14,Strategy
+d4e5f6g7h8i9j0k1l2m3n4o5p6a1b2c4,Planetary Pioneers,30,7.3,2029-11-01,Shooter
+e5f6g7h8i9j0k1l2m3n4o5p6a1b2c3d5,Temporal Titans,0,6.5,2004-10-20,Shooter
+f6g7h8i9j0k1l2m3n4o5p6a1b2c3d4e6,Lunar Legends,5,5.7,2005-12-28,MOBA
+g7h8i9j0k1l2m3n4o5p6a1b2c3d4e5f7,Solar Saviors,15,7.1,2007-04-16,MOBA
+h8i9j0k1l2m3n4o5p6a1b2c3d4e5f6g8,Aether Avengers,20,6.9,2008-08-03,Shooter
+i9j0k1l2m3n4o5p6a1b2c3d4e5f6g7h9,Nexus Navigators,30,8,2010-01-21,Role-Playing
+j0k1l2m3n4o5p6a1b2c3d4e5f6g7h8i0,Warp Wanderers,40,8.3,2011-09-27,Shooter
+k1l2m3n4o5p6a1b2c3d4e5f6g7h8i9j1,Singularity Slayers,60,9.2,2012-12-14,Shooter
+l2m3n4o5p6a1b2c3d4e5f6g7h8i9j0k2,Graviton Guardians,0,6.2,2014-05-02,MOBA
+m3n4o5p6a1b2c3d4e5f6g7h8i9j0k1l3,Quasar Questers,20,6.4,2015-08-19,Point and Click
+n4o5p6a1b2c3d4e5f6g7h8i9j0k1l2m4,Supernova Sentinels,40,8.1,2016-12-07,Strategy
+o5p6a1b2c3d4e5f6g7h8i9j0k1l2m3n5,Dark Matter Defenders,15,7.6,2018-03-26,MOBA
+p6a1b2c3d4e5f6g7h8i9j0k1l2m3n4o6,Nebulous Nomads,5,5.8,2019-07-13,Shooter
+a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p8,Stardust Strikers,60,9.5,2020-11-29,MOBA
+b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6a3,Comet Crusaders,30,7.4,2022-03-17,MOBA
+c3d4e5f6g7h8i9j0k1l2m3n4o5p6a1b4,Meteor Marauders,20,6.6,2023-07-04,Shooter
+d4e5f6g7h8i9j0k1l2m3n4o5p6a1b2c5,Pulsar Pioneers,40,8.8,2024-10-22,Strategy
+e5f6g7h8i9j0k1l2m3n4o5p6a1b2c3d6,Black Hole Heroes,15,7.9,2026-02-08,Point and Click
+f6g7h8i9j0k1l2m3n4o5p6a1b2c3d4e7,Galactic Gladiators,0,5.1,2027-05-28,Point and Click
+g7h8i9j0k1l2m3n4o5p6a1b2c3d4e5f8,Cosmic Champions,60,9.7,2028-09-14,MOBA
+h8i9j0k1l2m3n4o5p6a1b2c3d4e5f6g9,Starship Saviors,30,7.2,2030-01-01,Shooter
+i9j0k1l2m3n4o5p6a1b2c3d4e5f6g7h0,Orbital Outlaws,0,6.7,2004-11-24,Shooter
+j0k1l2m3n4o5p6a1b2c3d4e5f6g7h8i1,Starborn Strikers,5,5.6,2006-01-10,Shooter
+k1l2m3n4o5p6a1b2c3d4e5f6g7h8i9j2,Astro Assassins,15,7,2007-05-01,Shooter
+l2m3n4o5p6a1b2c3d4e5f6g7h8i9j0k3,Exoplanet Explorers,20,6.5,2008-08-19,MOBA
+m3n4o5p6a1b2c3d4e5f6g7h8i9j0k1l4,Wormhole Warriors,30,8.4,2010-02-04,MOBA
+n4o5p6a1b2c3d4e5f6g7h8i9j0k1l2m5,Interdimensional Invaders,40,8.6,2011-10-11,MOBA
+o5p6a1b2c3d4e5f6g7h8i9j0k1l2m3n6,Photon Phantoms,60,9,2013-01-28,MOBA
+p6a1b2c3d4e5f6g7h8i9j0k1l2m3n4o7,Quark Quest,0,6.1,2014-05-17,Role-Playing
+a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p9,Subatomic Saviors,20,6.8,2015-09-03,MOBA
+b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6a4,Elemental Enforcers,40,8.9,2016-12-21,Strategy
+c3d4e5f6g7h8i9j0k1l2m3n4o5p6a1b5,Particle Pioneers,15,7.3,2018-04-09,Shooter
+d4e5f6g7h8i9j0k1l2m3n4o5p6a1b2c6,Atomic Avengers,5,5.5,2019-07-28,Shooter
+e5f6g7h8i9j0k1l2m3n4o5p6a1b2c3d7,Molecular Marauders,60,9.8,2020-11-14,Role-Playing
+f6g7h8i9j0k1l2m3n4o5p6a1b2c3d4e8,Nanobot Navigators,30,7.1,2022-03-02,Shooter
+g7h8i9j0k1l2m3n4o5p6a1b2c3d4e5f9,Microscopic Mercenaries,20,6.3,2023-06-19,MOBA
+h8i9j0k1l2m3n4o5p6a1b2c3d4e5f6g0,Subspace Sentinels,40,8.7,2024-10-06,Shooter
+i9j0k1l2m3n4o5p6a1b2c3d4e5f6g7h1,Hyperspace Heroes,15,7.4,2026-01-23,Role-Playing
+j0k1l2m3n4o5p6a1b2c3d4e5f6g7h8i2,Galaxy Guardians,0,5.3,2027-05-12,Role-Playing
+k1l2m3n4o5p6a1b2c3d4e5f6g7h8i9j3,Cosmic Commandos,60,9.9,2028-08-29,Strategy
+l2m3n4o5p6a1b2c3d4e5f6g7h8i9j0k4,Stellar Sentries,30,7.5,2030-12-16,Shooter
